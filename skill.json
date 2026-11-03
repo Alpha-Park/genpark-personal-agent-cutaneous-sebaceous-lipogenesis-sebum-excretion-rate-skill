@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-cutaneous-sebaceous-lipogenesis-sebumetry-skill",
+  "version": "1.0.0",
+  "description": "Calculates Casual Sebum Level (CSL in ug/cm2) and Sebum Excretion Rate (SER in ug/cm2/h) to classify skin surface lipid barrier typing via photometric sebumetry.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "dermatology",
+    "sebum",
+    "sebumetry",
+    "lipogenesis",
+    "skin-barrier",
+    "acne",
+    "seborrhea",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
